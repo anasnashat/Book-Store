@@ -138,7 +138,7 @@ EMAIL_HOST_USER = ''
 EMAIL_HOST_PASSWORD = ''
 EMAIL_USE_TLS = True
 
-SITE_URL = 'https://book-store-anass.herokuapp.com/'
+SITE_URL = ''
 
 STRIPE_PUBLISHABLE_KEY = ''
 STRIPE_SECRET_KEY = ''
