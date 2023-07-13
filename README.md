@@ -1,4 +1,4 @@
-**# Django Book Store
+## Django Book Store
 
 [![GitHub stars](https://img.shields.io/github/stars/anasnashat/Book-store)](https://github.com/anasnashat/Book-store/stargazers)
 [![GitHub license](https://img.shields.io/github/license/anasnashat/Book-store)](https://github.com/anasnashat/Book-store/blob/master/LICENSE)
@@ -125,7 +125,7 @@ To deploy Django Book Store to a production environment, follow these steps:
 
 ## License
 
-By contributing to the Django Book Store project, you agree that your contributions will be licensed under the [MIT License](LICENSE).**
+By contributing to the Django Book Store project, you agree that your contributions will be licensed under the [MIT License](LICENSE).
 
 
 
